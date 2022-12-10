@@ -28,6 +28,10 @@ div.input {
   border: 2px solid yellow;
 }
 
+button{
+  color: blueviolet;
+}
+
 .letter {
   display: inline-flex;
   margin: 5px;
